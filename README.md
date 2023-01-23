@@ -1,6 +1,6 @@
 # Bellabeat-Case-Study
 
-Summary
+SUMMARY
  
 Founded in 2013 by Urška Sršen and Sando Mur, Bellabeat is the go-to wellness brand for women with an ecosystem of products and services focused on women’s health. Bellabeat products became available through a growing number of online retailers in addition to their own e-commerce channels. They focus on digital marketing extensively through Google Searches, consistent engagement of customers through social media platforms, and running video ads on Youtube.
 
@@ -23,7 +23,7 @@ Bellabeat membership: Bellabeat also offers a subscription-based membership prog
 
 
 
-Ask
+ASK
 
 The Business Task:
 
